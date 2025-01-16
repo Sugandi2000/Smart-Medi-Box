@@ -1,0 +1,12 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+BlynkESP32_BT_WF
+LiquidCrystal I2C
+DHT sensor library
+WiFi
+SimpleWiFiClient
+
+Adafruit SSD1306
+Adafruit GFX Library
+DHT sensor library for ESPx

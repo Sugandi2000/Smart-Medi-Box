@@ -1,0 +1,16 @@
+{
+  "name": "dust-sensor",
+  "author": "Muhamad Kassim",
+  "pins": [
+    "CONTROL",
+    "VO1",
+    "VCC",
+    "VO2",
+    "GND",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "controls": []
+}
